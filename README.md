@@ -26,11 +26,11 @@
 
 3. 下载并部署项目 (任意一种方式)
 
-- [下载项目部署工具](https://raw.githubusercontent.com/SuperMonster003/Ant-Forest/master/tools/ant-forest-deployment-tool.min.js) (`*.js`)
+- [下载项目部署工具](http://doc.autoxjs.com/) (`*.js`)
     1. 将部署工具 (脚本文件) `保存` 或 `另存为` 至本地存储
     2. 用 `Auto.js` 直接运行 (或导入后运行) 脚本文件完成部署
     3. 部署后可能需要关闭并重启 `Auto.js` 才能看到项目目录
-- [下载最新项目数据包](https://github.com/SuperMonster003/Ant-Forest/archive/master.zip) (`*.zip`)
+- [下载最新项目数据包](https://tianfukeji.lanzoui.com/b01hremtg) (`*.zip`)
     1. 将项目数据包解压到本地存储
     2. 定位到设备的内部存储目录 如:  
        `/内部存储/` `/Internal Storage/` `/sdcard/` `/storage/emulated/0/` 等
@@ -44,12 +44,11 @@
 4. 使用 Auto.js 运行项目
 
 - 运行 `main.js` 启动项目
-- 项目 `tools` 文件夹包含小工具 (详见[项目文档](https://github.com/SuperMonster003/Ant-Forest/blob/master/documents/MANNUAL.md#%E5%85%B6%E4%BB%96%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7))
 
 ******
 ### 使用指南
 ******
-* [项目文档](http://doc.autoxjs.com) (`文字`)
+* [编译器文档](http://doc.autoxjs.com) (`文字`)
 ******
 ### 功能简介
 ******
