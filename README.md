@@ -1,6 +1,6 @@
 # DY-Manager
 
-![banner](/logo.png)
+![banner] (/logo.png)
 
 ###### 基于 AutoJs 的抖音自动评论脚本
 
