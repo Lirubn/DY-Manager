@@ -49,7 +49,7 @@
 ******
 ### 使用指南
 ******
-* [项目文档](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest)) (`文字`)
+* [项目文档](http://doc.autoxjs.com) (`文字`)
 
 ******
 ### 功能简介
